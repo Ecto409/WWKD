@@ -1,7 +1,7 @@
 html, body {background: url(../img/kanye-west2.png) center fixed; -webkit-background-size: cover; background-size: cover; -webkit-font-smoothing: antialiased; height: 100%; }
 
 a{color:inherit;}
-a:hover{text-decoration:none; color:inherit; transition: 0.5s}
+a:hover{text-decoration:none; color:inherit; transition: 0.5s; font-size: 3.8vw;}
 
 .container {height: 100%;} 
 
